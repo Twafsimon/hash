@@ -1,0 +1,2 @@
+This text is created in the remote and its aim is to be pulled in the local 
+This steps will show how to pull and push files b/n local and remote repos
